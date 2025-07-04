@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "877090054169",
+    "firebase_url": "https://acil-durum-9b041-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "acil-durum-9b041",
+    "storage_bucket": "acil-durum-9b041.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877090054169:android:d4a21b5ff4b015365f0a88",
+        "android_client_info": {
+          "package_name": "com.example.emergencyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHlNadpZw_BQWdoYyrBDNX28C_M-xgxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

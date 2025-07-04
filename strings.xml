@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acil Durum</string>
+    <string name="app_name">Acil Durum Uygulaması</string>
+    <string name="emergency_button_text">ACİL DURUM</string>
+    <string name="input_name_hint">İsminizi girin</string>
+    <string name="emergency_alert_text">%s Acil Durumda!</string>
+</resources>
